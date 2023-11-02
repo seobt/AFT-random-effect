@@ -2,7 +2,7 @@
 
 1. Required data format
   - Data should be maxtrix
-  - Firt column: Id number (e.g. patient id, center id)
+  - First column: Id number (e.g. patient id, center id)
   - Second column: log(survival time)
   - From third column: covariates
   - Last column: censoring indicator (1: observed, 0: censored)
