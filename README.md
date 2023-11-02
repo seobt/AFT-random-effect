@@ -9,5 +9,5 @@
 
 2. function "SAFT" returns finite dimensional parameters and random effect distribution
 3. function "PAFT" returns all parameters from random effect AFT model under normal random effect
-4. For further information, please see "example.mat"
+4. For further information, please see "example.m"
    
